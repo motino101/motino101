@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Cole (she/they), pursuing a dual BS/MS in Computer Science at Stanford University. Over the past two summers, I worked in product management and program management as a Global Editorial intern at Spotify. Additionally, I'm the proud owner of an indie LGBTQ+ clothing brand called Paws Of Pride!
+I'm Cole (she/they), pursuing a dual BS/MS in Computer Science at Stanford University. Over the past two summers, I was a PM intern at Spotify. Additionally, I'm the proud owner of an LGBTQ+ clothing brand called Paws Of Pride!
 
 - 🌱 Currently learning: Machine Learning With Graphs (GNNs), Theater Improvisation, and Philosophy in Education.
 - 💬 Let's chat about: startups, music, and art.

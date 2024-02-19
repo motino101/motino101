@@ -9,7 +9,7 @@ I'm Cole (she/they), pursuing a dual BS/MS in Computer Science at Stanford Unive
 ### Highlighted Projects 
 
 1. **Chime App**
-   - Description: A language learning partner in your pocket. Web/iOS app & companion Apple Watch app supporting personalised conversational language learning in 56 languages.
+   - Description: A language learning partner in your pocket. Web/iOS app & companion Apple Watch app supporting personalised conversational language learning in 56 languages. (Full-Stack, Design)
    - Project Link: [Chime on Devpost](https://devpost.com/software/chime-app)
 
 3. **VIDescribe** 📸

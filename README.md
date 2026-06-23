@@ -1,9 +1,6 @@
 ### Hello there! 👋
 
-I'm Cole (she/they), pursuing a dual BS/MS in Computer Science at Stanford University. Over the past two summers, I was a PM intern at Spotify. Additionally, I'm the proud owner of an LGBTQ+ clothing brand called Paws Of Pride! I also enjoy video content creation on Youtube/Instagram and illustration. Recently, I've been super interested in generative AI.
-- 🌱 Currently learning: Machine Learning With Graphs (GNNs), Theater Improvisation, and Philosophy in Education.
-- 💬 Let's chat about: language learning, content creation, design, startups
-- 📫 Get in touch: you can reach me via email at xintong@stanford.edu!
+I'm Cole (she/they), pursuing a dual BS/MS in Computer Science at Stanford University. I also enjoy video content creation on Youtube/Instagram and illustration. 
 
 ### Highlighted Projects 
 
